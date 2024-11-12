@@ -1,0 +1,9 @@
+﻿  UnZipCode.cpp
+C:\Users\LOU\source\repos\UnZipCode\UnZipCode.cpp(49,8): warning C4101: “buff”: 未引用的局部变量
+C:\Users\LOU\source\repos\UnZipCode\UnZipCode.cpp(51,7): warning C4101: “r”: 未引用的局部变量
+  正在生成代码
+  11 of 14 functions (78.6%) were compiled, the rest were copied from previous compilation.
+    9 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  UnZipCode.vcxproj -> C:\Users\LOU\source\repos\UnZipCode\x64\Debug\UnZipCode.exe
